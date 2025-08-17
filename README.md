@@ -30,7 +30,8 @@
 ---
 
 ## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/vanshika-gusain-52aa47256)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vanshika-gusain-52aa47256)
+- 🌐 [Portfolio Website](https://vanshika1703.github.io/portfolio1/)  
   
 
 
